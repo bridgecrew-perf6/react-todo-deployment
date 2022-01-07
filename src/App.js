@@ -20,7 +20,7 @@ export default function App() {
       ]);
     }, 500);
 
-    setTodoInput("aa");
+    setTodoInput("");
   };
 
   const toggleTodo = (id) => {
